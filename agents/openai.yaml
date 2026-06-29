@@ -1,0 +1,4 @@
+interface:
+  display_name: "栋哥柔和卡片教程视频"
+  short_description: "Sync transcript, PPT cards, and topic header"
+  default_prompt: "Use $dongge-soft-card-tutorial-video to package my talking-head video with a topic header, synchronized PPT cards, and exact transcript subtitles."
